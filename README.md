@@ -1,1 +1,1 @@
-Lucifer single-JAR-modpack for fabric
+Lucifer: single-JAR-modpack for fabric
