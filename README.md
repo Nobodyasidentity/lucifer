@@ -1,1 +1,1 @@
-Lucifer: single-JAR-modpack for fabric
+Lucifer: Anarchy modpack for fabric
